@@ -1,0 +1,15 @@
+body {
+  background-color: #252830;
+  color: Darkgray;
+}
+
+.filtres {
+  padding: 2%;
+  margin: 2%;
+  background-color: #343a40;
+}
+
+.scroll {
+  height: 200px;
+  overflow: auto;
+}
